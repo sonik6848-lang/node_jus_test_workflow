@@ -1,0 +1,12 @@
+{
+    "name" : "my-app",
+    "version": "1.0.0",
+    "description": "A Simple Node.js Applicaiton",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"No tests specified\" && exit 0"
+    },
+    "keywords": [],
+    "author": " ",
+    "license": "ISC"
+}
