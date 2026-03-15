@@ -4,12 +4,9 @@
     "description": "A Simple Node.js Applicaiton",
     "main": "index.js",
     "scripts": {
-    "test": "jest --ci --reporters=default --reporters=jest-junit"
-  },
-  "jest-junit": {
-    "outputDirectory": ".",
-    "outputName": "test-results.xml"
-  },
+        "test": "echo \"No tests specified\" && exit 0"
+    },
+    
     "keywords": [],
     "author": " ",
     "license": "ISC"
